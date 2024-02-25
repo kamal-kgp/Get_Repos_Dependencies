@@ -10,8 +10,8 @@
 # Usage 
  1. open command prompt 
  2. Change directory to folder path where your application is present 
- 3. Run following command
+ 3. **Run following command**
   ```bash
-    python main.py 
+     python main.py 
  4. Follow the instructions in console and give input accordingly  
    
