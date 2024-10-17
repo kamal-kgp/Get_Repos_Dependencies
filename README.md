@@ -8,8 +8,7 @@ Get_Repos_Dependencies:   an console based application
      
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-   cd your-repo
+   git clone https://github.com/kamal-kgp/Get_Repos_Dependencies.git
 
 ## Usage 
  1. **Run the Application:  **
